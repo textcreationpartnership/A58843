@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scourge for the Jacobites a satyr.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58843</idno><idno type="EEBO-CITATION">13553234</idno>
+  <idno type="VID">100212</idno>
+  <idno type="EEBO-PROQUEST">2240862092</idno>
+  
+            <idno type="STC">Wing S2107</idno>
+            <idno type="STC">ESTC R33726</idno>
+            <idno type="OCLC">13553234</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100212)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1557:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scourge for the Jacobites a satyr.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Butler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint for colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100212:1"/>
+            <head>A Scourge for the JACOBITES: A SATYR.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED <hi>May</hi> 5. 1692.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <l>COME lash my Muse with a Satyrick Pen,</l>
+               <l>The wilful Nonsense that still lurks in Men</l>
+               <l>Compos'd of Contradiction, foolish Spite,</l>
+               <l>Whose Reason's lost, and is call'd JACOBITE.</l>
+               <l>Assist ye Powers that I may them display,</l>
+               <l>And bring their darkest Follies to the day.</l>
+               <l>I'll first describe him as he 'ppears to view,</l>
+               <l>Next search him throughly, out, and inside too.</l>
+               <l>His Mean's dejected, hang'd-down Head and Ears;</l>
+               <l>His Humour ebbs and flows with joy and fears;</l>
+               <l>Puft up with thoughts of Fleets and Men, that are</l>
+               <l>To land the Lord knows how, or when, and where.</l>
+               <l>He swells, he huffs, and puffs, and struts about,</l>
+               <l>Till he's disgorg'd his poison'd Notions out.</l>
+               <l>Talks big of <hi>France,</hi> and of its mighty King,</l>
+               <l>Whose Fame, or Shame, throughout the World doth ring;</l>
+               <l>What Towns, what Armies ever can withstand</l>
+               <l>The unconq'ring Arms of his and <hi>James</hi>'s hand,</l>
+               <l>Whose Courage equal's known by Sea and Land,</l>
+               <l>That where they cannot run, they'll surely stand.</l>
+               <l>You of all others should be least o'rejoy'd;</l>
+               <l>If <hi>French</hi> or <hi>Irish</hi> land, ye're all destroy'd.</l>
+               <l>The inrag'd Mob will do themselves this Right,</l>
+               <l>Each puny Boy'll devour a JACOBITE.</l>
+               <l>Blind, sordid Biggot; can, yet will not see</l>
+               <l>Thy growing Ruin and Catastrophe</l>
+               <l>Daily creeps on thee, whilst just Heavens Decree</l>
+               <l>Crowns our Great <hi>WILL</hi> with all prosperity,</l>
+               <l>And gives him more than Human Victory.</l>
+               <l>'Tis he alone whom Heaven has design'd</l>
+               <l>To be the darling-Good for all Mankind:</l>
+               <l>Miracle of Mercy to his worst of Foes,</l>
+               <l>Who daily doe his glorious Reign oppose;</l>
+               <l>Yet still he lets them live to run their Fate,</l>
+               <l>And shews they are beneath his Royal hate.</l>
+               <l>Patron of Justice, Equity and Right,</l>
+               <l>Terrour to Foes, in Council, and in Fight:</l>
+               <l>Justly belov'd, justly obey'd by all,</l>
+               <l>But thou base Treach'rous unthinking Animal.</l>
+               <pb facs="tcp:100212:2"/>
+               <l>Despicable, indigent, and useless thing,</l>
+               <l>Does neither service to thy self, or King.</l>
+               <l>For what thou whisper'st, writes, or talk'st aloud</l>
+               <l>In Coffee-House, Secret Cabal, or Crowd,</l>
+               <l>Does only shew thy Base Degenerate Mind,</l>
+               <l>Justly abhor'd, and curst by all Mankind.</l>
+               <l>With Lucifer on'd think ye are combin'd</l>
+               <l>To ruine all, not sparing your own kind.</l>
+               <l>How could ye else by Grumbling seek for Ease</l>
+               <l>From <hi>French</hi> Remedies, worse than the Disease?</l>
+               <l>Ye all pretend to feel, tho' 'tis too plain</l>
+               <l>Reformation's wanting only in your Brain:</l>
+               <l>What canst thou wish for, that we had before,</l>
+               <l>That we possess not, and a Richer Store?</l>
+               <l>'Tis thy own fault that thou enjoy'st no more.</l>
+               <l>Ye, like curst Curs, who in the Manger lie,</l>
+               <l>Growl, snarl, and bite the Beast that standeth by,</l>
+               <l>Envying each Grass he there receives for Food,</l>
+               <l>Tho' the whole Truss can do himself no good.</l>
+               <l>Shadow of Man! for that is all that can</l>
+               <l>Be found of thee to shew thou wert a Man,</l>
+               <l>Thy Reason, Judgment, Senses, all are lost,</l>
+               <l>Since thy vain, fordid, selfish Humour's crost:</l>
+               <l>Regardless to the Welfare of Mankind,</l>
+               <l>Those Thoughts ye banish from your Soul and Mind;</l>
+               <l>And sacrifice Laws, Liberties, and all</l>
+               <l>That we can wish, possess, or sacred call;</l>
+               <l>With sham-pretence of Service that ye'd do him,</l>
+               <l>Who like the Devil ye serve, but won't go to him:</l>
+               <l>Rebellious Fool! what canst thou hope to find?</l>
+               <l>For turn of State will never turn thy Mind</l>
+               <l>From that Base Villany that lurks throughout</l>
+               <l>Thy poyson'd Soul and Carcass, won't go out;</l>
+               <l>Nor can it die, and thou survive, curst Elf!</l>
+               <l>Rather than not do ill, thou't hang thy self;</l>
+               <l>Tho' that's the least of Ills thou ere canst do,</l>
+               <l>To hang thy self, and all thy Fellows too:</l>
+               <l>Nor can ye blame the King or State for more,</l>
+               <l>Than that ye live, and were not hang'd before.</l>
+               <l>Ye spurn at Mercy that is daily shown</l>
+               <l>To ye, the worst of Men, your selves must own,</l>
+               <l>These are the Marks, by which ye all are known.</l>
+               <l>Ah! Happy <hi>Albion,</hi> thrice blessed Isle!</l>
+               <l>Could we this Excrementious Brood exile;</l>
+               <l>Or would they cease to be! Grant Heaven they may</l>
+               <l>Like Rusty Iron, eat themselves away.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Rich. Butler.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
